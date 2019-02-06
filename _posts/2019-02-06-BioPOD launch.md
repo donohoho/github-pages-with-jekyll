@@ -1,6 +1,6 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "BioPOD"
+date: 2019-06-02
 ---
 
 #BioPOd
